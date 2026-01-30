@@ -1,4 +1,4 @@
-ODIN-RECIPES
+TRAUM-RECIPES
 
 A small HTML project featuring a collection of recipe pages connected through semantic links and structured markup.
 
